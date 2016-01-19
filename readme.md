@@ -2,7 +2,7 @@ Remix OS USB Tool
 ----------
 
 ### Background
-This Remix OS UBS Tool is built on the [Unetbooin|http://unetbootin.github.io/] open-source project. The details of the Unetbooin project can be found in followings.
+This Remix OS UBS Tool is built on the [Unetbooin](http://unetbootin.github.io) open-source project. The details of the Unetbooin project can be found in followings.
 
 Remix OS UBS Tool is designed for users to flash Remix OS for PC onto a USB Flash Drive. 
 
